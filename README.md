@@ -1,5 +1,6 @@
-<!---![](https://github.com/PierrotAWB/github-stats/blob/master/generated/overview.svg)
-![](https://github.com/PierrotAWB/github-stats/blob/master/generated/languages.svg) --->
+> Those who can’t do shouldn’t teach.
+> 
+> &mdash; <cite>Nassim Taleb</cite>
 
 <!--
 **PierrotAWB/PierrotAWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
