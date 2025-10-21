@@ -1,4 +1,4 @@
-> Those who can’t do shouldn’t teach.
+> Technology is at its best when it's invisible.
 > 
 > &mdash; <cite>Nassim Taleb</cite>
 
